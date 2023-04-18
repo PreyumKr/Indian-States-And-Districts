@@ -1,0 +1,13 @@
+{  
+   "unionterritories":[  
+      {  
+         "ut":"Andaman And Nicobar Islands",
+         "districts":[  
+            "Nicobar",
+            "North And Middle Andaman",
+            "South Andaman"
+         ]
+      }
+      
+   ]
+}
