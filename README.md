@@ -9,4 +9,4 @@
 ---
 Source https://s3waas.gov.in/
 
-Anyone Who would like to contribute to this repo can go and check the **s2waas website** and make changes in the ***json file*** to match it with the updated version of the above mentioned website.
+## Anyone Who would like to contribute to this repo can go and check the **s2waas website** and make changes in the ***json file*** to match it with the updated version of the above mentioned website.
